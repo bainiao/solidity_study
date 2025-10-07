@@ -1,0 +1,25 @@
+{
+  "name": "solidity_study",
+  "version": "1.0.0",
+  "description": "solidity_study",
+  "main": "index.js",
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bainiao/web3_solidity.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "bainiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bainiao/web3_solidity/issues"
+  },
+  "homepage": "https://github.com/bainiao/web3_solidity#readme",
+  "devDependencies": {
+    "hardhat": "^3.0.6"
+  },
+ 
