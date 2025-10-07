@@ -1,6 +1,7 @@
 npm init
 npm install hardhat --save-dev
 npx hardhat --init
+npm install @chainlink/contracts --save-dev # for Chainlink VRF
 npx hardhat compile
 npx hardhat test
 npx hardhat node
