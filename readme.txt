@@ -8,4 +8,4 @@ npx hardhat run scripts/deploy.js --network localhost
 
 npx hardhat verify --network <network> <contract-address> <constructor-args>
 
-npx hardhat run scripts/deploy.js
+npx hardhat run scripts/deploy.js --network <network>
